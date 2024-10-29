@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 50vh 0;
+    /* margin全体に値を設定　縦と横に50ずつ */
+  }
+  
+  img {
+    max-width: 100%;
+    /*今回の画像は960pxなので、960よりは大きくならない*/
+    margin: 20vh 0;
+  }
